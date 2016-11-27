@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg-speed",
+  "version": "1.1.5",
+  "description": "Speed up/slow down effect for ffmpeg.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "#Just team",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nairicode/ffmpeg-speed.git"
+  }
+}
